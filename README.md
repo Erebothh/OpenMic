@@ -18,6 +18,6 @@ Sin instalar nada. Sin apps. Solo en el navegador.
 1) ENTRÁ A LA WEB └→ Abrí openmic.app en la TV, PC o Tablet ↓
 2) CREA LA SALA └→ Click "Crear Sala" └→ Aparece QR + código ↓
 3) SE CONECTAN └→ Escanean QR con el celular └→ Permiten micrófono ↓
-4) ¡A CANTAR! └→ La pantalla muestra la letra └→ Los Celulares capturan la voz └→ y obtienen Puntajes en la TV ↓
+4) ¡A CANTAR! └→ La pantalla muestra la letra └→ Los Celulares capturan la voz └→ y obtienen Puntajes en la Pantalla ↓
 5) RESULTADOS └→ Podio final
 

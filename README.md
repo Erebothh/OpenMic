@@ -42,8 +42,8 @@
 
 ```bash
 # Clonar
-git clone https://github.com/TU_USUARIO/open-mic.git
-cd open-mic
+git clone https://github.com/Erebothh/OpenMic.git
+cd OpenMic
 
 # Instalar dependencias del servidor
 cd server

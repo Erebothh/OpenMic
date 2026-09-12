@@ -1,54 +1,23 @@
 # OpenMic
 
-**Karaoke online multijugador inspirado en los open mics de bar.** Crea una sala, comparte el código con tus amigos, elijan canciones y ¡a cantar! Sin registro, sin complicaciones, solo tú y el micrófono.
+**Karaoke online.** Entrá a la web, abrí en la TV, PC o Tablet, y tus amigos se conectan desde sus celulares y ¡a cantar!
 
-> ⚠️ Este proyecto está en desarrollo activo. ¡Contribuye!
+Sin instalar nada. Sin apps. Solo en el navegador.
 
 ## Características
 
-- **Multiplayer en tiempo real**: Canta con amigos desde cualquier lugar
-- **Letras sincronizadas**: Las letras se resaltan conforme avanza la canción
-- **Sistema de puntuación**: Evalúa tu actuación como en los concursos de karaoke
-- **4 modos de juego**: Solo, Parejas, Grupos y Versus 1v1
-- **Sin registro**: Crea sala, comparte código y listo
-- **Responsive**: Funciona en PC, tablet y móvil
+- **🌐 Solo entra a la web**: Sin instalaciones, sin descargas
+- **📺 TV como pantalla**: Abre en el navegador de la tele
+- **📱 Celular como micrófono**: Conectan por QR y cantan
+- **🎤 Evaluación de canto**: Evalúa tu voz en tiempo real
+- **🎮 Multiplayer**: Hasta 8 jugadores simultáneos
+- **🎭 4 modos de juego**: Solo, Parejas, Grupos y Versus
 
-## Modos de Juego
+## Cómo Funciona
 
-| Modo | Descripción |
-|------|-------------|
-| **Open Mic** | Cada quien canta solo. Gana el que más puntos saque. |
-| **Parejas** | Equipos de 2. Cantan juntos, puntaje combinado. |
-| **Grupos** | Equipos de 3+. Modo colaborativo. |
-| **Versus 1v1** | Dos cantantes, misma canción. |
+1) ENTRÁ A LA WEB └→ Abrí openmic.app en la TV, PC o Tablet ↓
+2) CREA LA SALA └→ Click "Crear Sala" └→ Aparece QR + código ↓
+3) SE CONECTAN └→ Escanean QR con el celular └→ Permiten micrófono ↓
+4) ¡A CANTAR! └→ La pantalla muestra la letra └→ Los Celulares capturan la voz └→ y obtienen Puntajes en la TV ↓
+5) RESULTADOS └→ Podio final
 
-## Stack de Desarrollo
-
-| Capa | Tecnología |
-|------|------------|
-| Frontend | React + Vite + Tailwind CSS |
-| Backend | Node.js + Express |
-| Tiempo real | Socket.io |
-| Letras | [lrclib.net](https://lrclib.net) API |
-
-## Instalación
-
-### Prerrequisitos
-
-- Node.js 18+
-- npm o yarn
-
-### Clonar e instalar
-
-```bash
-# Clonar
-git clone https://github.com/Erebothh/OpenMic.git
-cd OpenMic
-
-# Instalar dependencias del servidor
-cd server
-npm install
-
-# Instalar dependencias del cliente
-cd ../client
-npm install****
